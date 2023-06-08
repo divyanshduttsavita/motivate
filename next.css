@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+div{
+    width: 800px;
+    margin-top: 25px;
+}
+.second{
+    border: 10px solid white;
+}
+.third{
+    border: 10px solid white;
+    margin-left: 620px;
+}
+.forth{
+    border: 10px solid white;
+}
+.fifth{
+    border: 10px solid white;
+    margin-left: 620px;
+}
+.sixth{
+    border: 10px solid white;
+}
+.first{
+    margin-left: 350px;
+}
+.seventh{
+    margin-top: 60px;
+    margin-left: 650px;
+}
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bebas+Neue&family=Caveat&family=Lobster&family=Pacifico&family=Raleway:wght@200&family=Roboto+Mono:wght@200&family=Roboto+Slab:wght@200;400&family=Shadows+Into+Light&family=Tilt+Prism&display=swap');
+</style>
